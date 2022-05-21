@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ColumnLineChartsView</string>
+    <string name="column_describe">Column Describe</string>
+    <string name="line_describe">Line Describe</string>
+</resources>

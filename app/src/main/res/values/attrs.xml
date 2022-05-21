@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ColumnLineChartsView">
+        <attr name="columnStartColor" format="color"/>
+        <attr name="columnEndColor" format="color"/>
+        <attr name="columnDescribe" format="string"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="lineDescribe" format="string"/>
+        <attr name="describeColor" format="color"/>
+        <attr name="calibrationLineColor" format="color"/>
+    </declare-styleable>
+</resources>
